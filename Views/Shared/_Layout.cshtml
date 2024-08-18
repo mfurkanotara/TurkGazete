@@ -1,0 +1,256 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TurkGazete</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/TurkGazete.styles.css" asp-append-version="true" />
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="shortcut icon" type="image/x-icon" href="~/img/favicon.ico">
+
+    <!-- CSS here -->
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/css/ticker-style.css">
+    <link rel="stylesheet" href="~/css/flaticon.css">
+    <link rel="stylesheet" href="~/css/slicknav.css">
+    <link rel="stylesheet" href="~/css/animate.min.css">
+    <link rel="stylesheet" href="~/css/magnific-popup.css">
+    <link rel="stylesheet" href="~/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="~/css/themify-icons.css">
+    <link rel="stylesheet" href="~/css/slick.css">
+    <link rel="stylesheet" href="~/css/nice-select.css">
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+ <header>
+    <!-- Header Start -->
+    <div class="header-area">
+        <div class="main-header ">
+            <div class="header-top black-bg d-none d-sm-block">
+                <div class="container">
+                    <div class="col-xl-12">
+                        <div class="row d-flex justify-content-between align-items-center">
+                            <div class="header-info-left">
+                                <ul>     
+                                    <li class="title"><span class="flaticon-energy"></span>SON DAKİKA</li>
+                                    <li>Bayram tatili dönüşü başladı. İstanbul'da trafik yoğunluğu yüzde 51 olarak kaydedildi</li>
+                                </ul>
+                            </div>
+                            <div class="header-info-right">
+                                <ul class="header-date">
+                                    <li><span class="flaticon-calendar"></span>14 Nisan 2024</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="header-mid gray-bg">
+                <div class="container">
+                    <div class="row d-flex align-items-center">
+                        <!-- Logo -->
+                        <div class="col-xl-3 col-lg-3 col-md-3 d-none d-md-block">
+                            <div class="logo">
+                                <a href="~/Home/Index"><img src="~/img/logo/TurkGazeteLogo.png" alt=""></a>
+                            </div>
+                        </div>
+                        <div class="col-xl-9 col-lg-9 col-md-9">
+                            <div class="header-banner f-right ">
+                                <img src="~/img/gallery/menubaslik.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="header-bottom header-sticky">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-xl-8 col-lg-8 col-md-12 header-flex">
+                            <!-- sticky -->
+                            <div class="sticky-logo">
+                                <a href="Index"><img src="~/img/logo/TurkGazeteLogo.png" alt=""></a>
+                            </div>
+                            <!-- Main-menu -->
+                            <div class="main-menu d-none d-md-block">
+                                <nav>                  
+                                    <ul id="navigation">
+                                        <li><a href="~/Home/Index">Anasayfa</a></li>
+                                        <li><a href="~/Menu/Hakkinda">Hakkında</a></li>
+                                        <li><a href="#">Kategoriler</a></li>
+                                        <li><a href="~/Haber/TarimYapayZeka">En Son Haber</a></li>
+                                        <li><a href="~/Menu/Blog">Blog</a></li>
+                                            <ul class="submenu">
+                                                <li><a href="#">Blog Detaylar</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="#">İletişim</a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>             
+                        <div class="col-xl-4 col-lg-4 col-md-4">
+                            <div class="header-right f-right d-none d-lg-block">
+                                <!-- Heder social -->
+                                <ul class="header-social">    
+                                    <li><a href="https://www.facebook.com/profile.php?id=100092619767476"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="https://twitter.com/MeNakruf"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="https://instagram.com/mfurkanotara"><i class="fab fa-instagram"></i></a></li>
+                                    <li> <a href="https://www.youtube.com/channel/UC36i9rF0AqKqGXPGZGra4mA"><i class="fab fa-youtube"></i></a></li>
+                                </ul>
+                                <!-- Search Nav -->
+                                <div class="nav-search search-switch">
+                                    <i class="fa fa-search"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Mobile Menu -->
+                        <div class="col-12">
+                            <div class="mobile_menu d-block d-md-none"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Header End -->
+</header>
+<body>
+    
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    
+  
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+<footer>
+    <!-- Footer Start-->
+    <div class="footer-main footer-bg">
+        <div class="footer-area footer-padding">
+            <div class="container">
+                <div class="row d-flex justify-content-between">
+                    <div class="col-xl-3 col-lg-3 col-md-5 col-sm-8">
+                        <div class="single-footer-caption mb-50">
+                            <div class="single-footer-caption mb-30">
+                                <!-- logo -->
+                                <div class="footer-logo">
+                                    <a href="~/Home/Index"><img src="~/img/logo/LogoFooter.png" alt=""></a>
+                                </div>
+                                <div class="footer-tittle">
+                                    <div class="footer-pera">
+                                        <p class="info1">Bu sitenin tüm hakları Türk Gazete A.Ş.'ye aittir.</p>
+                                        <p class="info2">3002 Cd., Aşıkveysel, Kaya Apt., No: 22, Daire: 15, Ataşehir/İstanbul</p>
+                                        <p class="info2" href="tel:05519424606">İhbar Hattı: +90 551 942 4606<br> Faks: +90 216 325 51 29</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-5 col-sm-7">
+                        <div class="single-footer-caption mb-50">
+                            <div class="footer-tittle">
+                                <h4>Son Haberler</h4>
+                            </div>
+                            <!-- Popular post -->
+                            <div class="whats-right-single mb-20">
+                                <div class="whats-right-img">
+                                    <img src="~/img/trending/sulama-robot.png" alt="">
+                                </div>
+                                <div class="whats-right-cap">
+                                    <h4><a href="~/Haber/TarimYapayZeka">Tarımsal üretimde yapay zeka kullanılacak</a></h4>
+                                    <p>Muhammet Furkan OTARA  |  2 saat önce</p> 
+                                </div>
+                            </div>
+                            <!-- Popular post -->
+                            <div class="whats-right-single mb-20">
+                                <div class="whats-right-img">
+                                    <img src="~/img/trending/SurucuCeza.jpg" alt="">
+                                </div>
+                                <div class="whats-right-cap">
+                                    <h4><a href="~/Haber/SurucuCeza">Düzce'de selektörle radar uyarısı yapan sürücülere 45 bin 540 lira ceza kesildi</a></h4>
+                                    <p>Muhammet Furkan OTARA  |  2 saat önce</p> 
+                                </div>
+                            </div>
+                            <!-- Popular post -->
+                            <div class="whats-right-single mb-20">
+                                <div class="whats-right-img">
+                                    <img src="~/img/trending/TekirdagHaber.png" alt="">
+                                </div>
+                                <div class="whats-right-cap">
+                                    <h4><a href="~/Haber/TekirdagHaber">Tekirdağ'da iki grup arasında kavga: 11 yaralı</a></h4>
+                                    <p>Muhammet Furkan OTARA  |  2 saat önce</p> 
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-5 col-sm-7">
+                        <div class="single-footer-caption mb-50">
+                            <div class="banner">
+                                <img src="~/img/gallery/body_card4.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- footer-bottom aera -->
+        <div class="footer-bottom-area footer-bg">
+            <div class="container">
+                <div class="footer-border">
+                    <div class="row d-flex align-items-center">
+                        <div class="col-xl-12 ">
+                            <div class="footer-copy-right text-center">
+                                <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC  3.0. -->
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tüm hakları saklıdır. | Bu site <i class="fa fa-heart" aria-hidden="true"></i> <a href="https://twitter.com/MeNakruf" target="_blank"> tarafından tasarlandı.</a>
+  <!-- Link back to Colorlib can't be removed. Template is licensed under CC  3.0. --></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer End-->
+</footer>
+
+<script src="~/js/vendor/modernizr-3.5.0.min.js"></script>
+    <!-- Jquery, Popper, Bootstrap -->
+    <script src="~/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="~/js/popper.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <!-- Jquery Mobile Menu -->
+    <script src="~/js/jquery.slicknav.min.js"></script>
+
+    <!-- Jquery Slick , Owl-Carousel Plugins -->
+    <script src="~/js/owl.carousel.min.js"></script>
+    <script src="~/js/slick.min.js"></script>
+    <!-- Date Picker -->
+    <script src="~/js/gijgo.min.js"></script>
+    <!-- One Page, Animated-HeadLin -->
+    <script src="~/js/wow.min.js"></script>
+    <script src="~/js/animated.headline.js"></script>
+    <script src="~/js/jquery.magnific-popup.js"></script>
+
+    <!-- Scrollup, nice-select, sticky -->
+    <script src="~/js/jquery.scrollUp.min.js"></script>
+    <script src="~/js/jquery.nice-select.min.js"></script>
+    <script src="~/js/jquery.sticky.js"></script>
+    
+    <!-- contact js -->
+    <script src="~/js/contact.js"></script>
+    <script src="~/js/jquery.form.js"></script>
+    <script src="~/js/jquery.validate.min.js"></script>
+    <script src="~/js/mail-script.js"></script>
+    <script src="~/js/jquery.ajaxchimp.min.js"></script>
+    
+    <!-- Jquery Plugins, main Jquery -->	
+    <script src="~/js/plugins.js"></script>
+    <script src="~/js/main.js"></script>
+</html>

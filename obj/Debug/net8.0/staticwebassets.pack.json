@@ -1,0 +1,1297 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TurkGazete.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TurkGazete.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\css\\gijgo.css",
+      "PackagePath": "staticwebassets\\css\\gijgo.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\css\\main.map",
+      "PackagePath": "staticwebassets\\css\\main.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\css\\style.map",
+      "PackagePath": "staticwebassets\\css\\style.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\css\\ticker-style.css",
+      "PackagePath": "staticwebassets\\css\\ticker-style.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\fonts\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\flaticon.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\about\\about_lft.png",
+      "PackagePath": "staticwebassets\\img\\about\\about_lft.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\about\\about_right.png",
+      "PackagePath": "staticwebassets\\img\\about\\about_right.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\about\\pet_care.png",
+      "PackagePath": "staticwebassets\\img\\about\\pet_care.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\adapt_icon\\1.png",
+      "PackagePath": "staticwebassets\\img\\adapt_icon\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\adapt_icon\\1.svg",
+      "PackagePath": "staticwebassets\\img\\adapt_icon\\1.svg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\adapt_icon\\2.png",
+      "PackagePath": "staticwebassets\\img\\adapt_icon\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\adapt_icon\\3.png",
+      "PackagePath": "staticwebassets\\img\\adapt_icon\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\banner\\dog.png",
+      "PackagePath": "staticwebassets\\img\\banner\\dog.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\banner\\img.png",
+      "PackagePath": "staticwebassets\\img\\banner\\img.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\blog\\blog.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\blog\\blog_4.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\blog\\learn_about_bg.png",
+      "PackagePath": "staticwebassets\\img\\blog\\learn_about_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\blog\\slide_thumb_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\slide_thumb_1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\comment\\comment_1.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\comment\\comment_2.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_2.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\comment\\comment_3.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_3.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\1.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\2.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\3.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\BesiktasFooter.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\BesiktasFooter.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\_team.scss",
+      "PackagePath": "staticwebassets\\img\\gallery\\_team.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\about.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\about.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\body_card1.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\body_card1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\body_card2.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\body_card2.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\body_card3.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\body_card3.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\body_card4.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\body_card4.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\footer_post1.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\footer_post1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\footer_post2.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\footer_post2.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\footer_post3.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\footer_post3.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\furkan.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\furkan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\menubaslik.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\menubaslik.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\most_recent.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\most_recent.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\most_recent1.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\most_recent1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\most_recent2.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\most_recent2.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\section_bg02.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\section_bg02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\team1.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\team1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\team2.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\team2.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\team3.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\team3.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\tranding1.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\tranding1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\tranding2.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\tranding2.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\weekly2News1.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\weekly2News1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\weekly2News2.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\weekly2News2.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\weekly2News3.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\weekly2News3.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\weekly2News4.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\weekly2News4.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\weeklyNews1.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\weeklyNews1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\weeklyNews2.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\weeklyNews2.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\weeklyNews3.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\weeklyNews3.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\whats_news_details1.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\whats_news_details1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\whats_news_details2.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\whats_news_details2.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\whats_news_details3.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\whats_news_details3.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\whats_news_details4.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\whats_news_details4.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\whats_news_details5.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\whats_news_details5.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\whats_news_details6.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\whats_news_details6.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\whats_right_img1.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\whats_right_img1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\whats_right_img2.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\whats_right_img2.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\whats_right_img3.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\whats_right_img3.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\gallery\\whats_right_img4.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\whats_right_img4.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\logo\\LogoFooter.png",
+      "PackagePath": "staticwebassets\\img\\logo\\LogoFooter.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\logo\\TurkGazeteLogo.png",
+      "PackagePath": "staticwebassets\\img\\logo\\TurkGazeteLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\logo\\TurkGazeteLogo_Footer - Kopya.png",
+      "PackagePath": "staticwebassets\\img\\logo\\TurkGazeteLogo_Footer - Kopya.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\logo\\TurkGazeteLogo_Footer.png",
+      "PackagePath": "staticwebassets\\img\\logo\\TurkGazeteLogo_Footer.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\news\\icon-fb.png",
+      "PackagePath": "staticwebassets\\img\\news\\icon-fb.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\news\\icon-ins.png",
+      "PackagePath": "staticwebassets\\img\\news\\icon-ins.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\news\\icon-tw.png",
+      "PackagePath": "staticwebassets\\img\\news\\icon-tw.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\news\\icon-yo.png",
+      "PackagePath": "staticwebassets\\img\\news\\icon-yo.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\news\\news_card.jpg",
+      "PackagePath": "staticwebassets\\img\\news\\news_card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\offers\\1.png",
+      "PackagePath": "staticwebassets\\img\\offers\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\offers\\2.png",
+      "PackagePath": "staticwebassets\\img\\offers\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\offers\\3.png",
+      "PackagePath": "staticwebassets\\img\\offers\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\our_blog\\blog-img1.jpg",
+      "PackagePath": "staticwebassets\\img\\our_blog\\blog-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\post\\next.png",
+      "PackagePath": "staticwebassets\\img\\post\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_10.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_2.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_3.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_4.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_5.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_6.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_7.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_8.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_9.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\post\\preview.png",
+      "PackagePath": "staticwebassets\\img\\post\\preview.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\prising\\1.png",
+      "PackagePath": "staticwebassets\\img\\prising\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\prising\\10.png",
+      "PackagePath": "staticwebassets\\img\\prising\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\prising\\2.png",
+      "PackagePath": "staticwebassets\\img\\prising\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\prising\\3.png",
+      "PackagePath": "staticwebassets\\img\\prising\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\prising\\4.png",
+      "PackagePath": "staticwebassets\\img\\prising\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\prising\\5.png",
+      "PackagePath": "staticwebassets\\img\\prising\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\prising\\6.png",
+      "PackagePath": "staticwebassets\\img\\prising\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\prising\\7.png",
+      "PackagePath": "staticwebassets\\img\\prising\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\prising\\8.png",
+      "PackagePath": "staticwebassets\\img\\prising\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\prising\\9.png",
+      "PackagePath": "staticwebassets\\img\\prising\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\service\\1.png",
+      "PackagePath": "staticwebassets\\img\\service\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\service\\2.png",
+      "PackagePath": "staticwebassets\\img\\service\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\service\\3.png",
+      "PackagePath": "staticwebassets\\img\\service\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\service\\service_icon_1.png",
+      "PackagePath": "staticwebassets\\img\\service\\service_icon_1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\service\\service_icon_2.png",
+      "PackagePath": "staticwebassets\\img\\service\\service_icon_2.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\service\\service_icon_3.png",
+      "PackagePath": "staticwebassets\\img\\service\\service_icon_3.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\service\\service_icon_bg_1.png",
+      "PackagePath": "staticwebassets\\img\\service\\service_icon_bg_1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\team\\1.png",
+      "PackagePath": "staticwebassets\\img\\team\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\team\\2.png",
+      "PackagePath": "staticwebassets\\img\\team\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\team\\3.png",
+      "PackagePath": "staticwebassets\\img\\team\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\BesiktasYangin.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\BesiktasYangin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\BesiktasYangin2.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\BesiktasYangin2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\RamazanBayrami.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\RamazanBayrami.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\SurucuCeza.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\SurucuCeza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\SurucuCeza.png",
+      "PackagePath": "staticwebassets\\img\\trending\\SurucuCeza.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\TekirdagHaber.png",
+      "PackagePath": "staticwebassets\\img\\trending\\TekirdagHaber.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\Ucmakdere.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\Ucmakdere.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\olay-yeri-iha-2208262_1.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\olay-yeri-iha-2208262_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\right1.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\right1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\right2.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\right2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\right3.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\right3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\right4.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\right4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\right5.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\right5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\sulama-robot.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\sulama-robot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\sulama-robot.png",
+      "PackagePath": "staticwebassets\\img\\trending\\sulama-robot.png"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\tekirdag-kavga-aa-2208667.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\tekirdag-kavga-aa-2208667.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\trending_bottom1.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trending_bottom1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\trending_bottom2.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trending_bottom2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\trending_bottom3.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trending_bottom3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\trending_top.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trending_top.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\trending_top02.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trending_top02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\trending_top03.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trending_top03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\trending_top2.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trending_top2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\trending_top3.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trending_top3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\img\\trending\\trending_top4.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trending_top4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\animated.headline.js",
+      "PackagePath": "staticwebassets\\js\\animated.headline.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\gijgo.min.js",
+      "PackagePath": "staticwebassets\\js\\gijgo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\ie.js",
+      "PackagePath": "staticwebassets\\js\\ie.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\jquery.paroller.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.paroller.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\jquery.ticker.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ticker.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\one-page-nav-min.js",
+      "PackagePath": "staticwebassets\\js\\one-page-nav-min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_about-page.scss",
+      "PackagePath": "staticwebassets\\scss\\_about-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\scss\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_blog_page.scss",
+      "PackagePath": "staticwebassets\\scss\\_blog_page.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_bradcam.scss",
+      "PackagePath": "staticwebassets\\scss\\_bradcam.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_color.scss",
+      "PackagePath": "staticwebassets\\scss\\_color.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\scss\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_completed-cases.scss",
+      "PackagePath": "staticwebassets\\scss\\_completed-cases.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\scss\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_extend.scss",
+      "PackagePath": "staticwebassets\\scss\\_extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_headerMenu.scss",
+      "PackagePath": "staticwebassets\\scss\\_headerMenu.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_overlay.scss",
+      "PackagePath": "staticwebassets\\scss\\_overlay.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_recent-articles.scss",
+      "PackagePath": "staticwebassets\\scss\\_recent-articles.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_services.scss",
+      "PackagePath": "staticwebassets\\scss\\_services.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_services_section.scss",
+      "PackagePath": "staticwebassets\\scss\\_services_section.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_team.scss",
+      "PackagePath": "staticwebassets\\scss\\_team.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\scss\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_trending.scss",
+      "PackagePath": "staticwebassets\\scss\\_trending.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_wecky2-new.scss",
+      "PackagePath": "staticwebassets\\scss\\_wecky2-new.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_wecky3-new.scss",
+      "PackagePath": "staticwebassets\\scss\\_wecky3-new.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_whats-new.scss",
+      "PackagePath": "staticwebassets\\scss\\_whats-new.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\_youtube.scss",
+      "PackagePath": "staticwebassets\\scss\\_youtube.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\video\\news1.mp4",
+      "PackagePath": "staticwebassets\\video\\news1.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\video\\news2.mp4",
+      "PackagePath": "staticwebassets\\video\\news2.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mfurk\\OneDrive\\Masaüstü\\TurkGazete\\wwwroot\\video\\news3.mp4",
+      "PackagePath": "staticwebassets\\video\\news3.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TurkGazete.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TurkGazete.props",
+      "PackagePath": "build\\TurkGazete.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TurkGazete.props",
+      "PackagePath": "buildMultiTargeting\\TurkGazete.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TurkGazete.props",
+      "PackagePath": "buildTransitive\\TurkGazete.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

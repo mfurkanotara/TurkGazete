@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TurkGazete
+build_property.RootNamespace = TurkGazete
+build_property.ProjectDir = C:\Users\mfurk\OneDrive\Masaüstü\TurkGazete\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mfurk\OneDrive\Masaüstü\TurkGazete
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mfurk/OneDrive/Masaüstü/TurkGazete/Views/Haber/BesiktasYangin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiZXJcQmVzaWt0YXNZYW5naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mfurk/OneDrive/Masaüstü/TurkGazete/Views/Haber/SurucuCeza.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiZXJcU3VydWN1Q2V6YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mfurk/OneDrive/Masaüstü/TurkGazete/Views/Haber/TarimYapayZeka.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiZXJcVGFyaW1ZYXBheVpla2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mfurk/OneDrive/Masaüstü/TurkGazete/Views/Haber/TekirdagHaber.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiZXJcVGVraXJkYWdIYWJlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mfurk/OneDrive/Masaüstü/TurkGazete/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mfurk/OneDrive/Masaüstü/TurkGazete/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mfurk/OneDrive/Masaüstü/TurkGazete/Views/Menu/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mfurk/OneDrive/Masaüstü/TurkGazete/Views/Menu/Hakkinda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxIYWtraW5kYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mfurk/OneDrive/Masaüstü/TurkGazete/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mfurk/OneDrive/Masaüstü/TurkGazete/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mfurk/OneDrive/Masaüstü/TurkGazete/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mfurk/OneDrive/Masaüstü/TurkGazete/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mfurk/OneDrive/Masaüstü/TurkGazete/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-g68c2k3ndd
